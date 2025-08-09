@@ -81,4 +81,4 @@ E não é só sobre tempo:
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/usuario/repositorio.git
+git clone https://github.com/Danilooar/AN-LISE-DO-TEMPO-DE-TELA
