@@ -1,0 +1,162 @@
+idade,Impactos_saúde,quantidade
+8,"Poor Sleep",80
+8,"Poor Sleep, Eye Strain",26
+8,"Poor Sleep, Obesity Risk",20
+8,"Eye Strain",17
+8,"Poor Sleep, Anxiety",16
+8,"Obesity Risk",12
+8,Anxiety,10
+8,"Poor Sleep, Eye Strain, Anxiety",8
+8,"Poor Sleep, Eye Strain, Obesity Risk",7
+8,"Eye Strain, Obesity Risk",6
+8,"Eye Strain, Anxiety",5
+8,"Poor Sleep, Anxiety, Obesity Risk",2
+8,"Poor Sleep, Eye Strain, Anxiety, Obesity Risk",1
+9,"Poor Sleep",69
+9,"Poor Sleep, Eye Strain",20
+9,"Eye Strain",18
+9,"Poor Sleep, Obesity Risk",15
+9,"Poor Sleep, Anxiety",13
+9,Anxiety,9
+9,"Poor Sleep, Eye Strain, Obesity Risk",7
+9,"Poor Sleep, Eye Strain, Anxiety",7
+9,"Obesity Risk",7
+9,"Eye Strain, Obesity Risk",4
+9,"Poor Sleep, Eye Strain, Anxiety, Obesity Risk",3
+9,"Eye Strain, Anxiety",3
+9,"Poor Sleep, Anxiety, Obesity Risk",2
+9,"Anxiety, Obesity Risk",1
+9,"Eye Strain, Anxiety, Obesity Risk",1
+10,"Poor Sleep",83
+10,"Poor Sleep, Eye Strain",28
+10,"Poor Sleep, Obesity Risk",18
+10,"Eye Strain",17
+10,"Poor Sleep, Anxiety",15
+10,Anxiety,13
+10,"Eye Strain, Anxiety",6
+10,"Poor Sleep, Eye Strain, Anxiety",6
+10,"Eye Strain, Anxiety, Obesity Risk",5
+10,"Poor Sleep, Eye Strain, Obesity Risk",3
+10,"Poor Sleep, Anxiety, Obesity Risk",1
+10,"Obesity Risk",1
+10,"Eye Strain, Obesity Risk",1
+10,"Anxiety, Obesity Risk",1
+11,"Poor Sleep",103
+11,"Poor Sleep, Eye Strain",37
+11,"Eye Strain",35
+11,"Poor Sleep, Anxiety",19
+11,Anxiety,19
+11,"Poor Sleep, Eye Strain, Anxiety",17
+11,"Poor Sleep, Obesity Risk",14
+11,"Obesity Risk",13
+11,"Poor Sleep, Eye Strain, Obesity Risk",9
+11,"Eye Strain, Anxiety",5
+11,"Eye Strain, Obesity Risk",4
+11,"Poor Sleep, Eye Strain, Anxiety, Obesity Risk",3
+11,"Anxiety, Obesity Risk",3
+11,"Poor Sleep, Anxiety, Obesity Risk",2
+11,"Eye Strain, Anxiety, Obesity Risk",1
+12,"Poor Sleep",93
+12,"Poor Sleep, Eye Strain",51
+12,"Eye Strain",34
+12,"Poor Sleep, Anxiety",30
+12,"Poor Sleep, Obesity Risk",27
+12,Anxiety,21
+12,"Poor Sleep, Eye Strain, Obesity Risk",19
+12,"Poor Sleep, Eye Strain, Anxiety",12
+12,"Obesity Risk",11
+12,"Eye Strain, Anxiety",7
+12,"Eye Strain, Obesity Risk",5
+12,"Poor Sleep, Anxiety, Obesity Risk",3
+12,"Anxiety, Obesity Risk",3
+12,"Eye Strain, Anxiety, Obesity Risk",1
+12,"Poor Sleep, Eye Strain, Anxiety, Obesity Risk",1
+13,"Poor Sleep",103
+13,"Poor Sleep, Eye Strain",39
+13,"Eye Strain",37
+13,"Poor Sleep, Obesity Risk",28
+13,"Poor Sleep, Anxiety",25
+13,Anxiety,15
+13,"Obesity Risk",11
+13,"Poor Sleep, Eye Strain, Anxiety",11
+13,"Eye Strain, Obesity Risk",8
+13,"Poor Sleep, Eye Strain, Obesity Risk",8
+13,"Anxiety, Obesity Risk",5
+13,"Eye Strain, Anxiety",4
+13,"Poor Sleep, Eye Strain, Anxiety, Obesity Risk",3
+13,"Poor Sleep, Anxiety, Obesity Risk",1
+14,"Poor Sleep",90
+14,"Poor Sleep, Eye Strain",38
+14,"Poor Sleep, Anxiety",31
+14,"Eye Strain",22
+14,"Poor Sleep, Obesity Risk",15
+14,"Obesity Risk",14
+14,"Poor Sleep, Eye Strain, Anxiety",12
+14,Anxiety,9
+14,"Poor Sleep, Eye Strain, Obesity Risk",9
+14,"Poor Sleep, Anxiety, Obesity Risk",4
+14,"Anxiety, Obesity Risk",4
+14,"Eye Strain, Anxiety",3
+14,"Eye Strain, Obesity Risk",3
+14,"Eye Strain, Anxiety, Obesity Risk",3
+14,"Poor Sleep, Eye Strain, Anxiety, Obesity Risk",1
+15,"Poor Sleep",108
+15,"Poor Sleep, Eye Strain",55
+15,"Eye Strain",34
+15,"Poor Sleep, Anxiety",27
+15,"Poor Sleep, Obesity Risk",17
+15,Anxiety,13
+15,"Poor Sleep, Eye Strain, Anxiety",10
+15,"Obesity Risk",9
+15,"Eye Strain, Anxiety",7
+15,"Poor Sleep, Eye Strain, Obesity Risk",6
+15,"Anxiety, Obesity Risk",4
+15,"Eye Strain, Obesity Risk",4
+15,"Poor Sleep, Anxiety, Obesity Risk",3
+15,"Poor Sleep, Eye Strain, Anxiety, Obesity Risk",3
+15,"Eye Strain, Anxiety, Obesity Risk",2
+16,"Poor Sleep",103
+16,"Poor Sleep, Eye Strain",49
+16,"Poor Sleep, Anxiety",36
+16,"Eye Strain",27
+16,Anxiety,16
+16,"Poor Sleep, Eye Strain, Anxiety",15
+16,"Obesity Risk",14
+16,"Poor Sleep, Eye Strain, Obesity Risk",9
+16,"Poor Sleep, Obesity Risk",9
+16,"Eye Strain, Anxiety",6
+16,"Eye Strain, Obesity Risk",4
+16,"Poor Sleep, Anxiety, Obesity Risk",4
+16,"Anxiety, Obesity Risk",4
+16,"Eye Strain, Anxiety, Obesity Risk",3
+16,"Poor Sleep, Eye Strain, Anxiety, Obesity Risk",3
+17,"Poor Sleep",82
+17,"Poor Sleep, Eye Strain",45
+17,"Poor Sleep, Obesity Risk",32
+17,"Poor Sleep, Anxiety",32
+17,"Eye Strain",20
+17,"Obesity Risk",14
+17,Anxiety,12
+17,"Poor Sleep, Eye Strain, Anxiety",11
+17,"Poor Sleep, Eye Strain, Obesity Risk",10
+17,"Eye Strain, Anxiety",8
+17,"Eye Strain, Obesity Risk",4
+17,"Poor Sleep, Eye Strain, Anxiety, Obesity Risk",2
+17,"Poor Sleep, Anxiety, Obesity Risk",1
+17,"Eye Strain, Anxiety, Obesity Risk",1
+17,"Anxiety, Obesity Risk",1
+18,"Poor Sleep",96
+18,"Eye Strain",36
+18,"Poor Sleep, Eye Strain",35
+18,"Poor Sleep, Anxiety",21
+18,Anxiety,15
+18,"Poor Sleep, Obesity Risk",11
+18,"Obesity Risk",11
+18,"Poor Sleep, Eye Strain, Obesity Risk",9
+18,"Poor Sleep, Eye Strain, Anxiety",9
+18,"Eye Strain, Anxiety",7
+18,"Poor Sleep, Anxiety, Obesity Risk",6
+18,"Eye Strain, Obesity Risk",5
+18,"Eye Strain, Anxiety, Obesity Risk",4
+18,"Poor Sleep, Eye Strain, Anxiety, Obesity Risk",2
+18,"Anxiety, Obesity Risk",1
