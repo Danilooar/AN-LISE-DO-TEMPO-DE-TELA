@@ -73,7 +73,7 @@ E não é só sobre tempo:
 
 ## 📷 Preview do Dashboard
 
-![DS](Portifolio.gif)
+![Demonstração do Portfolio](Portifolio.gif)
 
 ---
 
